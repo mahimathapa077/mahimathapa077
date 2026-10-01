@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Mahima 👋
 
 I'm a student exploring **Python, Data Science, Mathematics, and Computer Science**.
